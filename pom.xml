@@ -6,7 +6,7 @@
   <name>gh8255-testcase</name>
   
   <properties>
-    <spring.boot.version>1.5.1.RELEASE</spring.boot.version>  
+    <spring.boot.version>1.4.4.RELEASE</spring.boot.version>  
   </properties>
   
   <dependencies>
